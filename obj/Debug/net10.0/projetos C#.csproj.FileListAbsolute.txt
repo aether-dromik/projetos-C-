@@ -1,0 +1,14 @@
+/home/davi/Documentos/projetos C#/bin/Debug/net10.0/projetos C#
+/home/davi/Documentos/projetos C#/bin/Debug/net10.0/projetos C#.deps.json
+/home/davi/Documentos/projetos C#/bin/Debug/net10.0/projetos C#.runtimeconfig.json
+/home/davi/Documentos/projetos C#/bin/Debug/net10.0/projetos C#.dll
+/home/davi/Documentos/projetos C#/bin/Debug/net10.0/projetos C#.pdb
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/projetos C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/projetos C#.AssemblyInfoInputs.cache
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/projetos C#.AssemblyInfo.cs
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/projetos C#.csproj.CoreCompileInputs.cache
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/projetos C#.dll
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/refint/projetos C#.dll
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/projetos C#.pdb
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/projetos C#.genruntimeconfig.cache
+/home/davi/Documentos/projetos C#/obj/Debug/net10.0/ref/projetos C#.dll
